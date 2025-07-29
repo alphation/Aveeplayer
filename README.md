@@ -49,7 +49,7 @@ Templates are `.viz` files that control how your music looks on screen. They inc
 ## 📦 Where to Find Templates
 
 Join our **Telegram Channel** for free template downloads:  
-👉 [https://t.me/Alphation1](https://t.me/Alphation0)
+👉 https://t.me/Alphation0
 
 ---
 
